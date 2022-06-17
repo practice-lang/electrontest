@@ -9,7 +9,7 @@
   "author": "PMH",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^5.0.2"
+    "electron": "^15.5.5"
   },
   "build": {
     "appId": "kr.kro.ttakkku.electron.test",
